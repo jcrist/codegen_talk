@@ -1,6 +1,6 @@
 A talk I gave on code generation for PyMNtos.
 
-Slides are available here.
+Slides are available [here](https://speakerdeck.com/jcrist/generating-fast-and-correct-code-with-sympy).
 
 To try the demo out for yourself, you need the following:
 
