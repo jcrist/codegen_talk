@@ -10,4 +10,4 @@ To try the demo out for yourself, you need the following:
 - A C compiler (such as `gcc`)
 - A Fortran compiler (such as `gfortran`)
 
-You can also view the demo on nbviewer here.
+You can also view the demo on [nbviewer here](http://nbviewer.ipython.org/github/jcrist/codegen_talk/blob/master/codegen_talk.ipynb).
