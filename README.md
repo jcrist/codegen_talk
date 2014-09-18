@@ -4,7 +4,7 @@ Slides are available [here](https://speakerdeck.com/jcrist/generating-fast-and-c
 
 To try the demo out for yourself, you need the following:
 
-- sympy (at least [sympy-0.7.5-git](https://github.com/sympy/sympy))
+- sympy ([git-master](https://github.com/sympy/sympy))
 - numpy
 - ipython
 - A C compiler (such as `gcc`)
